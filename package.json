@@ -1,0 +1,27 @@
+{
+  "name": "welcomehome120",
+  "description": "Serving static content via html files",
+  "version": "0.0.1",
+  "author": "Elizabeth Cowan <ecowan@ucsd.edu>",
+  "contributors":[
+    { 
+      "name": "Byron",
+      "name": "Ryan",
+      "name": "Lizzy"
+      }
+  ],
+
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/jaybyron/Welcome-Home/tree/master/css"
+  },
+  "license": "MIT",
+
+  "main": "server.js",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "engines": {
+  	"node": "0.10.x"
+  }
+}
